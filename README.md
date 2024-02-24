@@ -2,3 +2,5 @@
 Test Changing Author of Commit Messages
 
 This is a **final** change!
+
+WOOHOO!
